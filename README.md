@@ -4,8 +4,8 @@ In this repository, you will find some projects on Topic Modeling in Natural Lan
 
 
 | Problem                         | Methods | Libraries | Repository |
-| ------------------------------- | ------------- |
-| Spam-Ham Message Classifier(Attempt 1) | ------ |
-| Spam-Ham Message Classifier(Attempt 2) | ------------- |
-| Spam-Ham Message Classifier(Final)    | [CLICK.](https://github.com/Nikitha-Rajendran/spam-ham-message-classifier)       |
-| Multi-Class Topic Modeling | ------------- |
+| ------------------------------- | ------------- | - | - |
+| Spam-Ham Message Classifier(Attempt 1) | ------ | - | - |
+| Spam-Ham Message Classifier(Attempt 2) | ------------- | - | - |
+| Spam-Ham Message Classifier(Final) | - | - | [CLICK.](https://github.com/Nikitha-Rajendran/spam-ham-message-classifier)       |
+| Multi-Class Topic Modeling | ------------- | - | - |
