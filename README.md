@@ -13,4 +13,5 @@ In this repository, you will find a project I had done during my undergraduate s
 Given below is a tabular summary:
 
 |Task|Dataset Details|Preprocessing|Model and Architecture|Training Results|Test Results|
+|-|-|-|-|-|-|
 |Spam-Ham Classifier|||||
