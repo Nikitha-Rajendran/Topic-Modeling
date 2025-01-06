@@ -8,6 +8,7 @@ In this repository, you will find a project I had done during my undergraduate s
 | Spam-Ham Message Classifier(Attempt 1) | [CLICK.](https://github.com/Nikitha-Rajendran/spam-ham-message-classifier-1)  |
 | Spam-Ham Message Classifier(Attempt 2) | [CLICK.](https://github.com/Nikitha-Rajendran/spam-ham-2) |
 | Spam-Ham Message Classifier(Final) | [CLICK.](https://github.com/Nikitha-Rajendran/spam-ham-final)       |
+|Disaster Tweet Classifier| [CLICK.](https://github.com/Nikitha-Rajendran/Disaster-Tweet-Classifier)|
 | Multi-Class Topic Modeling | [CLICK.](https://github.com/Nikitha-Rajendran/multiclass-modeling)   |
 
 Given below is a tabular summary:
