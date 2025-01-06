@@ -14,4 +14,4 @@ Given below is a tabular summary:
 
 |Task|Dataset Details|Preprocessing|Model and Architecture|Training Results|Test Results|
 |-|-|-|-|-|-|
-|Spam-Ham Classifier|||||
+|Spam-Ham Classifier|2550 emails (train), 450 emails (test), 20% validation split|Cleaning, removing stopwords, tokenization|LSTM with embedding layer, binary cross-entropy loss, RMSprop optimizer|Loss: 0.0105, Accuracy: 0.9959, Val Loss: 0.0435, Val Accuracy: 0.9824|Loss: 0.0243, Accuracy: 0.9889|
