@@ -1,6 +1,6 @@
 # Topic-Modeling
 
-In this repository, you will find a project I had done during my undergraduate studies on Topic Modeling in Natural Language Processing (a comparative study on various models). Initially, a Spam-Ham classifier and Disaster Tweet classifier were developed using LSTM models with embeddings. Preprocessing methods like cleaning, tokenization, and GloVe embeddings were employed. A Multi-Class Topic Modeling task on news articles using GRU layers demonstrated good accuracy. Later, a combined dataset with four tweet classes was created, and a model using BERT with Latent Dirichlet Allocation was tried out.
+In this repository, you will find a project my friends and I had done during my undergraduate studies on Topic Modeling in Natural Language Processing (a comparative study on various models). Initially, a Spam-Ham classifier and Disaster Tweet classifier were developed using LSTM models with embeddings. Preprocessing methods like cleaning, tokenization, and GloVe embeddings were employed. A Multi-Class Topic Modeling task on news articles using GRU layers demonstrated good accuracy. Later, a combined dataset with four tweet classes was created, and a model using BERT with Latent Dirichlet Allocation was tried out.
 
 
 | Problem                         | Repository |
